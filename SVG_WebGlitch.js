@@ -1,7 +1,7 @@
 // Brandon A. Dalmer 2023
 // Web Glitch
 
-const n = 256; // Reduce resolution for better performance
+const n = 512; // Reduce resolution for better performance
 let grid = [];
 
 function setup() {
